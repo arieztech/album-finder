@@ -17,8 +17,8 @@ Tech stack
 -Vite
 
 Screenshots
-![Search for Album](./assets/albumSearch.png)
-![View Albums](./assets/albumView.png)
+![Search for Album](./src/assets/albumSearch.png)
+![View Albums](./src/assets/albumView.png)
 
 Gettin started
 1.Clone the Repo
@@ -41,7 +41,9 @@ Gettin started
 -npm run dev
 -Then open the local URL 
 
-6.Things that I've learned
+[Live Demo](https://album-finder-arieztech.vercel.app)
+
+Things that I've learned
 -Adapting when theres a change during mid-build when a third party app's API requirements changed.
 -Mapping UI to a completely different API response shape (Last.fm vs. Spotify)
 -Handling missing/inconsistent data from a public API (e.g. albums without cover art)

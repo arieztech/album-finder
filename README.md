@@ -41,7 +41,7 @@ Gettin started
 -npm run dev
 -Then open the local URL 
 
-[Live Demo](https://album-finder-arieztech.vercel.app)
+[Live Demo](album-finder-omega.vercel.app)
 
 Things that I've learned
 -Adapting when theres a change during mid-build when a third party app's API requirements changed.
